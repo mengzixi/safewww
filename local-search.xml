@@ -4,6 +4,56 @@
   
   
   <entry>
+    <title>Java SE Development Kit (JDK)合集</title>
+    <link href="/2026/120806.html"/>
+    <url>/2026/120806.html</url>
+    
+    <content type="html"><![CDATA[<p>甲骨文公司Oracle Java Development Kit(JDK)是一款Java开发工具包,包含Java运行环境(<a href="https://www.aci1.com/tag/java" title="查看所有文章关于 java">java</a>运行库),Java开发套件和Java基础类库源代码.Java Runtime Environment(JRE)是运行Java程序的运行环境,不管是做Java开发还是从事安卓开发,都必须在系统安装JRE运行环境.Java语言的贡献力量是其他任何技术无可比拟的.</p><p><strong>新版变化</strong></p><p>2024年4月16号 Java SE 22 发行说明<br>Java™ SE Development Kit 22 (JDK22.0.1)<br><a href="https://www.oracle.com/java/technologies/javase/22-relnote-issues.html">https://www.oracle.com/java/technologies/javase/22-relnote-issues.html</a></p><p>JDK17将升级长期支持 (LTS) 版本，在2024年9月前提供支持，JDK18、JDK19将是个短期功能版只支持六个月。</p><p>2022年3月下旬，甲骨文公司为所有开发人员和企业提供的Java 17 正式版，按照甲骨文重要安全补丁更新（CPU）时间表，JDK18将至少获得两次季度更新，据悉按照惯例 Java 19 正式版将于2022年9月发布。</p><p><strong>JRE和JDK的区别？</strong></p><p>如果在学习或从事Java开发、编译java程序，那么安装JDK</p><p>如果仅需运行java程序，只需要Java运行库，那么安装JRE</p><p>Java Development Kit（简称JDK）&#x3D; Java开发套件，Java开发工具包，面向Java语言开发者。</p><p>Java Runtime Environment（简称JRE）&#x3D; Java运行库，Java运行环境，面向Java程序用户们。</p><p>JDK：Java核心，含Java运行环境(JRE)、编译器（javac.exe）、开发工具（javadoc.exe、jar.exe、keytool.exe、jconsole.exe）和Java工具类库（如tools.jar）源代码等java语言编译所需的工具包。</p><p>JRE：Java语言开发的程序运行所需要的运行环境，包括JVM标准实现（java.exe等）及 Java核心类库（rt.jar等），它不包含开发工具(编译器、调试器等)</p><h1 id="JAVA环境变量配置："><a href="#JAVA环境变量配置：" class="headerlink" title="JAVA环境变量配置："></a>JAVA环境变量配置：</h1><p>此电脑-&gt;右键-&gt;属性-&gt;高级系统设置-&gt;环境变量：<br>1、「用户变量」和「系统变量」分别新建2条变量</p><figure class="highlight mel"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs mel">变量名：CLASSPATH  变量值：.;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar;<br>变量名：JAVA_HOME  变量值：C:\Program Files\Java\jdk1<span class="hljs-number">.8</span><span class="hljs-number">.0</span>_311（安装目录版本号路径）<br></code></pre></td></tr></table></figure><p>2、「系统变量」双击-&gt;Path-&gt;编辑环境变量 -&gt; 分别新建3条</p><figure class="highlight livescript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs livescript">%JAVA_HOME%<span class="hljs-string">\bin</span><br>C:<span class="hljs-string">\Program</span> Files<span class="hljs-string">\Java\jdk21.0_0\bin</span><br>C:<span class="hljs-string">\Program</span> Files<span class="hljs-string">\Java\jre21.0_0</span><br></code></pre></td></tr></table></figure><h1 id="检查JDK环境配置命令："><a href="#检查JDK环境配置命令：" class="headerlink" title="检查JDK环境配置命令："></a>检查JDK环境配置命令：</h1><p>CMD 输入 java -version</p><p><a href="https://423down.lanzouo.com/b0f2gmp3e">立即下载</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>软件下载</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>环境</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>微软常用运行库合集(Visual C++)</title>
+    <link href="/2026/125006.html"/>
+    <url>/2026/125006.html</url>
+    
+    <content type="html"><![CDATA[<p>Microsoft Visual C++ Redistributable(简称MSVC,VB&#x2F;VC,VC运行库)系统运行库是Windows查看所有文章关于 Windows”)操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,此版VC++运行库合集(微软常用运行库合集),整合了所有版本Visual C ++,可以自选更新VC++版本组件,并提供图形安装界面.</p><p><strong>特点描述</strong></p><p>Visual C++ 微软常用运行库合集 (32+64位合集)<br>Repacked by Dreamcast (Build on 2024.08.14)</p><p>包含组件：<br>Visual Basic Virtual Machine(5.1)<br>Visual Basic Virtual Machine(6.0)<br>Microsoft C Runtime Library 2002(7.0.9975.0)<br>Microsoft C Runtime Library 2003(7.10.6119.0)<br>Microsoft Visual C++2005 SP1(8.0.61187)<br>Microsoft Visual C++2008 SP1(9.0.30729.7523)<br>Microsoft Visual C++2010 SP1(10.0.40219.473)<br>Microsoft Visual C++2012 UP4(11.0.61135.400)<br>Microsoft Visual C++2013(12.0.40664.0)<br>Microsoft Visual C++2019(14.38.32919.0)(WinXP)<br>Microsoft Visual C++2015-2022(14.42.34226.3)(Win7+)<br>Microsoft Universal CRuntime(10.0.10586.9)(WinXP～7)<br>Microsoft Visual Studio 2010 Tools For Office Runtime</p><p><strong>静默参数</strong></p><p>&#x2F;silent &#x2F;verysilent<br><a href="https://423down.lanzouo.com/b0f1dlg3a">立即下载</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>软件下载</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>环境</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Bandizip解压缩软件正式版破解专业版</title>
     <link href="/2026/110406.html"/>
     <url>/2026/110406.html</url>
