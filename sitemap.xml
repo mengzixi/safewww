@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.hacksafe.cc/2026/162206.html</loc>
+    
+    <lastmod>2026-06-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.hacksafe.cc/2026/163006.html</loc>
+    
+    <lastmod>2026-06-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.hacksafe.cc/2026/154306.html</loc>
+    
+    <lastmod>2026-06-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.hacksafe.cc/2026/120806.html</loc>
     
     <lastmod>2026-06-06</lastmod>
@@ -69,10 +96,31 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://www.hacksafe.cc/tags/%E7%BD%91%E7%AB%99%E6%BA%90%E7%A0%81/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.hacksafe.cc/tags/APP%E6%BA%90%E7%A0%81/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
     <loc>http://www.hacksafe.cc/categories/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.hacksafe.cc/categories/%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
