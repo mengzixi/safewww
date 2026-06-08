@@ -4,6 +4,131 @@
   
   
   <entry>
+    <title>付费进群源码5.2VIP版 互站卖999元</title>
+    <link href="/2026/152608.html"/>
+    <url>/2026/152608.html</url>
+    
+    <content type="html"><![CDATA[<p><strong>详情介绍</strong></p><p>部署环境：Nginx≥1.18 PHP&#x3D;7.2 MySQL&#x3D; 5.6（必须按照这个环境来，否则无法正常使用）</p><p>搭建此网站需要3个域名 （一个作为后台域名，一个作为中转域名，一个作为分站域名，添加到同一个站点里面）</p><p>知识点：不需要购买3个域名，同一个域名可以无限解析二级域名（当然3个域名都不一样会更好，避免域名红了全部一起红）</p><p>1、添加站点，将文件上传到网站根目录并解压</p><p>2、伪静态选ThinkPHP</p><p>3、导入数据库：付费进群系统5.2版数据库.sql</p><p>4、修改config&#x2F;database.php（数据库名、用户名、密码）</p><p>5、修改域名config&#x2F;extra&#x2F;ip.php（填后台域名）</p><p>6、安装PHP扩展：swoole</p><p>7、将swoole_loader_72_nts.so文件，放入&#x2F;www&#x2F;server&#x2F;php&#x2F;72&#x2F;lib&#x2F;php&#x2F;extensions&#x2F;no-debug-non-zts-20170718目录中</p><p>8、将&#x2F;www&#x2F;server&#x2F;php&#x2F;72&#x2F;etc&#x2F;目录中的php.ini文件删除，然后上传源码包里面的php.ini文件</p><p>9、第6-8步骤全部完成后，请重启一下PHP</p><p>10、至此，教程结束，打开后台域名即可访问网站总后台<br><img src="http://res.hacksafe.cc/2026/06/3b0cc23cf895737e93435c14f91d5689.webp" alt="付费进群源码"><br><a href="https://pan.baidu.com/s/1_yDRVOJItNlLzKRa2n37mg?pwd=u6qr">立即下载</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>源码下载</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>网站源码</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>最新仿蓝奏网盘系统源码</title>
+    <link href="/2026/154008.html"/>
+    <url>/2026/154008.html</url>
+    
+    <content type="html"><![CDATA[<p>自带的蓝奏云解析，是之前的代码，截至发帖时间，亲测依旧有效，可以扒拉下来做蓝奏云解析接口。</p><p>使用方法：可以将文件上传至蓝奏云，然后通过此套系统，二次解析下载，不会暴露你的真实蓝奏云地址和信息。</p><p>为什么要二次解析下载？可能你觉得这是脱裤子放屁。。。</p><p>好的，这套源码其实还支持自定义广告，如果你的文件下载量大，你还可以接广告，安插在下载页。</p><p>什么？你没有广告？不会吧！你可以在广告管理中，创建一个js广告，js地址为空白或者＃号即可。</p><p>当然，这套源码自带的插件，只做了蓝奏云的解析，你也可以自己开发解析插件，使其支持其他网盘的解析。<br><img src="http://res.hacksafe.cc/2026/06/42b23f36ef6b311ff055972c5513b3b2.png" alt="仿蓝奏网盘系统源码"><br><img src="http://res.hacksafe.cc/2026/06/eee85cb30b4ccbfa20af30feb76363d8.webp" alt="仿蓝奏网盘系统源码"><br><img src="http://res.hacksafe.cc/2026/06/097835b1c3b492937627c5ef840c0747.png" alt="仿蓝奏网盘系统源码"><br><a href="https://pan.baidu.com/s/1cgbtkMTU3K5jVKtIxi64Iw?pwd=huq4">立即下载</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>源码下载</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>网站源码</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【即时通讯im】官方群/交友软件/完善收藏笔记/客服聊天/安卓+ios/聊天APP源码</title>
+    <link href="/2026/153408.html"/>
+    <url>/2026/153408.html</url>
+    
+    <content type="html"><![CDATA[<p><strong>详情介绍</strong></p><p>前端开发语言：VUE（ 安卓，IOS,WEB为一套前端代码）</p><p>服务端开发语言: PHP+WebSocket</p><p>数据库：MySql + mongodb</p><p>前端打包工具：Hbuilder</p><p>服务器搭建工具：宝塔 + Xshell</p><p>1，IM聊天版本带在线音频红包等功能，</p><p>2，后台自定义网址</p><p>6，注册自动加客服好友，后台可以设置</p><p>得到这个源码后，看了下，没搭建教程。</p><p>尝试搭建了下后台，可以搭建出来，但企业猫技术有限，未能把教程补全<br><img src="http://res.hacksafe.cc/2026/06/4e9a1c0af96f8b8544ccfaacb0a69552.webp" alt="官方群-交友软件-完善收藏笔记-客服聊天-安卓-ios-聊天APP源码"><br><img src="http://res.hacksafe.cc/2026/06/d6b21d98c23ec36728f6eb81384da4dc.webp" alt="官方群-交友软件-完善收藏笔记-客服聊天-安卓-ios-聊天APP源码"><br><img src="http://res.hacksafe.cc/2026/06/26eac83c199d1af942f2324219dab000.webp" alt="官方群-交友软件-完善收藏笔记-客服聊天-安卓-ios-聊天APP源码"><br><a href="https://pan.quark.cn/s/af710af8dfbe">立即下载</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>源码下载</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>网站源码</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>APP封装系统 app误报毒app可上传 自动实现5分钟随机更换包名和签名</title>
+    <link href="/2026/150908.html"/>
+    <url>/2026/150908.html</url>
+    
+    <content type="html"><![CDATA[<p><strong>详情介绍</strong></p><p>程序可实现安卓app五分钟自动打包更换包名和签名</p><p>也可以上传打包好的apk五分钟自动更换包名和签名，</p><p>自动覆盖原下载路径</p><p>可以解决因为签名包名和报毒软件相同造成的误报毒</p><p>上传打包好的apk可以是封装的，也可以是原生的~</p><p>上传apk的如果有加固就不能使用此功能</p><p>本程序所有功能逻辑均没有第三方介入，完全程序本身实现<br><img src="http://res.hacksafe.cc/2026/06/8e140ecd7687749da780ff737baaa8ed.webp" alt="APP封装系统-app误报毒app可上传-自动实现5分钟随机更换包名和签名"><br><a href="https://pan.quark.cn/s/f124dd522685">立即下载</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>源码下载</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>网站源码</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>宝宝取名源码 易经在线起名网 周易新生儿取名 生辰八字取名系统</title>
+    <link href="/2026/153808.html"/>
+    <url>/2026/153808.html</url>
+    
+    <content type="html"><![CDATA[<p><strong>详情介绍</strong></p><p>后台简单明了自带240万姓名数据，集成虎皮椒个人免签支付接口！</p><p>如果你手里有妈妈资源，千万别错过这套程序，全自动无人值守就可以出单，真正躺赚！！！</p><p>PC和WAP二合一版本，不存在其他店铺那种分开出售的情况。</p><p>源码带虎皮椒支付宝和微信支付双接口，并新增有支付开关，可单独使用某个支付。</p><p>主要功能：</p><p>1.宝宝在线起名</p><p>2.八字起名，周易取名</p><p>3.带在线付费起名</p><p>4.老师微信，一对一起名</p><p>支付：程序集合了虎皮椒微信支付和虎皮椒支付宝支付（个人免签）方便用户在线付款（支付接口后台可以自己设置参数，亲测可用）</p><p>特点：免注册，免登录，可直接在线起名，并且完成付款。</p><p>测试环境：Linux系统宝塔面板+nginx1.21+php5.6+mysql5.6+伪静态 ，</p><p>伪静态对照情况不要直接THINKPHP，对照教程中伪静态。<br><img src="http://res.hacksafe.cc/2026/06/c9c4f8901f8b92b0e55ff9565779dcbb.webp" alt="宝宝取名源码 易经在线起名网"><br><a href="https://pan.quark.cn/s/ef9738b728a3">立即下载</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>源码下载</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>网站源码</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>先务黑名单系统 全开源无加密</title>
     <link href="/2026/164607.html"/>
     <url>/2026/164607.html</url>
@@ -133,7 +258,7 @@
     <link href="/2026/162206.html"/>
     <url>/2026/162206.html</url>
     
-    <content type="html"><![CDATA[<p>免责声明—</p><p>购买用户严禁将本产品用于与中国现行法律相违背的一切行为；否则，请停止购买，如坚持购买使用一切法律责任 及 所有后果均由购买使用方承担，与本店无关，并且本店有权停止一切相关服务；特此声明！</p><p>本程序APP是由flutter编写,由于商家时间问题,建议买家自行寻找flutter技术员打包APK</p><p>前端<a href="https://zzjie.com/url/?url=https://meetce.hacksafe.cc/">https://meetce.hacksafe.cc/</a></p><p>账号<a href="mailto:&#97;&#100;&#x6d;&#105;&#110;&#64;&#104;&#x61;&#99;&#x6b;&#115;&#97;&#102;&#x65;&#46;&#x63;&#x63;">admin@hacksafe.cc</a> 密码 123456</p><p>会议号码 123456</p><p>APP下载地址 <a href="https://zzjie.com/url/?url=https://meetce.hacksafe.cc/down/">https://meetce.hacksafe.cc/down/</a></p><p>2026年 - 5月更新（最终更新）</p><ol><li>支持云会议 多人语音视频会议</li><li>支持屏幕共享</li><li>支持一对一视频</li><li>支持游客加入会议</li><li>支持一对一私聊</li><li>一次部署终身免费使用，无需其他任何附加费用</li></ol><p>多人视频会议</p><p>- 支持 <strong>100+ 人</strong> 同时在线</p><p>- 智能画廊视图，自动布局</p><p>- 演讲者模式，聚焦主讲人</p><p>- 低延迟、高清画质（支持 1080p）</p><p>屏幕共享</p><p>- 一键共享整个屏幕或单个窗口<br>- 共享 PPT、文档、代码、视频<br>- 支持远程协作标注<br>- 流畅无卡顿，清晰展示细节</p><p>实时互动<br>- 文字聊天（支持私聊）<br>- 表情反应（👍 ❤️ 👏 等）<br>- 举手发言功能<br>- 会议录制与回放</p><p>安全可靠<br>- 端到端加密（E2EE）可选<br>- 会议密码保护<br>- 会议室锁定功能<br>- 完全自主可控，数据不外泄</p><p><img src="http://res.hacksafe.cc/2026/06/545345df48fa26c34668813f5e7a284b.webp" alt="屏幕共享系统源码"><br><img src="http://res.hacksafe.cc/2026/06/eb3e6a780660a50dc50c1d88d42ddee4.webp" alt="屏幕共享系统源码"><br><img src="http://res.hacksafe.cc/2026/06/bdad2b729f36e98be4391c38e72a06f5.webp" alt="屏幕共享系统源码"><br><img src="http://res.hacksafe.cc/2026/06/65e1b6c14dbc5f29158f65beda307231.webp" alt="屏幕共享系统源码"><br><img src="http://res.hacksafe.cc/2026/06/da09bc3847ebc957657863082f4aa7f3.webp" alt="屏幕共享系统源码"><br><img src="http://res.hacksafe.cc/2026/06/78a9defd0702aa6253c3e3ad7d29aa2e.webp" alt="屏幕共享系统源码"></p><p><a href="https://www.hacksafe.cc/about/">由于源码得来不易请联系站长购买</a></p>]]></content>
+    <content type="html"><![CDATA[<p>免责声明—</p><p>购买用户严禁将本产品用于与中国现行法律相违背的一切行为；否则，请停止购买，如坚持购买使用一切法律责任 及 所有后果均由购买使用方承担，与本店无关，并且本店有权停止一切相关服务；特此声明！</p><p>本程序APP是由flutter编写,由于商家时间问题,建议买家自行寻找flutter技术员打包APK</p><p>前端<a href="https://zzjie.com/url/?url=https://meetce.hacksafe.cc/">https://meetce.hacksafe.cc/</a></p><p>账号<a href="mailto:&#97;&#100;&#x6d;&#105;&#x6e;&#64;&#x68;&#x61;&#99;&#107;&#x73;&#x61;&#102;&#x65;&#46;&#99;&#99;">admin@hacksafe.cc</a> 密码 123456</p><p>会议号码 123456</p><p>APP下载地址 <a href="https://zzjie.com/url/?url=https://meetce.hacksafe.cc/down/">https://meetce.hacksafe.cc/down/</a></p><p>2026年 - 5月更新（最终更新）</p><ol><li>支持云会议 多人语音视频会议</li><li>支持屏幕共享</li><li>支持一对一视频</li><li>支持游客加入会议</li><li>支持一对一私聊</li><li>一次部署终身免费使用，无需其他任何附加费用</li></ol><p>多人视频会议</p><p>- 支持 <strong>100+ 人</strong> 同时在线</p><p>- 智能画廊视图，自动布局</p><p>- 演讲者模式，聚焦主讲人</p><p>- 低延迟、高清画质（支持 1080p）</p><p>屏幕共享</p><p>- 一键共享整个屏幕或单个窗口<br>- 共享 PPT、文档、代码、视频<br>- 支持远程协作标注<br>- 流畅无卡顿，清晰展示细节</p><p>实时互动<br>- 文字聊天（支持私聊）<br>- 表情反应（👍 ❤️ 👏 等）<br>- 举手发言功能<br>- 会议录制与回放</p><p>安全可靠<br>- 端到端加密（E2EE）可选<br>- 会议密码保护<br>- 会议室锁定功能<br>- 完全自主可控，数据不外泄</p><p><img src="http://res.hacksafe.cc/2026/06/545345df48fa26c34668813f5e7a284b.webp" alt="屏幕共享系统源码"><br><img src="http://res.hacksafe.cc/2026/06/eb3e6a780660a50dc50c1d88d42ddee4.webp" alt="屏幕共享系统源码"><br><img src="http://res.hacksafe.cc/2026/06/bdad2b729f36e98be4391c38e72a06f5.webp" alt="屏幕共享系统源码"><br><img src="http://res.hacksafe.cc/2026/06/65e1b6c14dbc5f29158f65beda307231.webp" alt="屏幕共享系统源码"><br><img src="http://res.hacksafe.cc/2026/06/da09bc3847ebc957657863082f4aa7f3.webp" alt="屏幕共享系统源码"><br><img src="http://res.hacksafe.cc/2026/06/78a9defd0702aa6253c3e3ad7d29aa2e.webp" alt="屏幕共享系统源码"></p><p><a href="https://www.hacksafe.cc/about/">由于源码得来不易请联系站长购买</a></p>]]></content>
     
     
     <categories>
