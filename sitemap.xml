@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.hacksafe.cc/</loc>
-    <lastmod>2026-06-10T08:30:34+08:00</lastmod>
+    <lastmod>2026-06-12T16:40:17+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.hacksafe.cc/2026/160112.html</loc>
+    <lastmod>2026-06-12T16:39:08+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.hacksafe.cc/2026/141509.html</loc>
@@ -140,37 +146,37 @@
   </url>
   <url>
     <loc>https://www.hacksafe.cc/tags/%E7%BD%91%E7%AB%99%E6%BA%90%E7%A0%81/</loc>
-    <lastmod>2026-06-10T08:30:34+08:00</lastmod>
+    <lastmod>2026-06-12T16:40:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   <url>
     <loc>https://www.hacksafe.cc/tags/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2026-06-10T08:30:34+08:00</lastmod>
+    <lastmod>2026-06-12T16:40:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   <url>
     <loc>https://www.hacksafe.cc/tags/%E7%8E%AF%E5%A2%83/</loc>
-    <lastmod>2026-06-10T08:30:34+08:00</lastmod>
+    <lastmod>2026-06-12T16:40:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   <url>
     <loc>https://www.hacksafe.cc/tags/APP%E6%BA%90%E7%A0%81/</loc>
-    <lastmod>2026-06-10T08:30:34+08:00</lastmod>
+    <lastmod>2026-06-12T16:40:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   <url>
     <loc>https://www.hacksafe.cc/categories/%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD/</loc>
-    <lastmod>2026-06-10T08:30:34+08:00</lastmod>
+    <lastmod>2026-06-12T16:40:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   <url>
     <loc>https://www.hacksafe.cc/categories/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/</loc>
-    <lastmod>2026-06-10T08:30:34+08:00</lastmod>
+    <lastmod>2026-06-12T16:40:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
